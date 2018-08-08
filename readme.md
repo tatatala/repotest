@@ -5,3 +5,4 @@ Greeting a new branch is quick AND simple.
 Git tracks changes of files.
 lalala
 hahaha
+test merge
